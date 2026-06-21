@@ -22,8 +22,6 @@
 
 📊 Data Analytics Enthusiast
 
-🌾 Building technology solutions for agriculture
-
 💡 Interested in Mobile Apps, Automation & Business Intelligence
 
 📍 Tamil Nadu, India
@@ -55,29 +53,6 @@
 ---
 
 # 🚀 Featured Projects
-
-## 🌾 Uzhavan Vazhi
-
-A complete agriculture management platform for:
-
-- 🚜 Tractor Owners
-- 👨‍🌾 Drivers
-- 🌱 Farmers
-- 🚜 JCB Services
-- 🌾 Harvester Services
-
-### Features
-
-- Smart Billing
-- Driver Management
-- Customer Management
-- Expense Tracking
-- Reports & Analytics
-- Offline Support
-- History Management
-- Multi-language Ready
-
----
 
 ## 🚜 Tractor Billing Calculator (Mani Kanakku)
 
@@ -212,7 +187,6 @@ Python-based console application.
 
 # 🎯 2026 Goals
 
-- 🚀 Launch Uzhavan Vazhi
 - 📱 Publish Flutter apps on Play Store
 - 📊 Build more Power BI dashboards
 - 🌍 Contribute to Open Source
