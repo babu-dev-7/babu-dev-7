@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Babu Selvaraj Banner" width="100%" />
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Babu Selvaraj
